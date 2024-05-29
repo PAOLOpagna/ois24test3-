@@ -7,7 +7,6 @@
 \title{Your Paper}
 \author{You}
 \begin{document}
-\input{introduction.txt}
 \maketitle
 \begin{abstract}
 A simple abstract
